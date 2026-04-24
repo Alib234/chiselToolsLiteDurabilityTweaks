@@ -16,7 +16,7 @@
   {
     "op": "replace",
     "path": "/durabilitybytype/pantograph-blackbronze",
-    "value": 6000,
+    "value": 11000,
     "file": "chiseltools:itemtypes/pantograph.json",
     "side": "Server"
   },
