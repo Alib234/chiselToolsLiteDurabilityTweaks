@@ -1,0 +1,51 @@
+[
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handplaner-copper",
+    "value": 6000,
+    "file": "chiseltools:itemtypes/handplaner.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handplaner-tinbronze",
+    "value": 10000,
+    "file": "chiseltools:itemtypes/handplaner.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handplaner-bismuthbronze",
+    "value": 12000,
+    "file": "chiseltools:itemtypes/handplaner.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handplaner-blackbronze",
+    "value": 14000,
+    "file": "chiseltools:itemtypes/handplaner.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handplaner-iron",
+    "value": 20000,
+    "file": "chiseltools:itemtypes/handplaner.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handplaner-meteoriciron",
+    "value": 28000,
+    "file": "chiseltools:itemtypes/handplaner.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handplaner-steel",
+    "value": 50000,
+    "file": "chiseltools:itemtypes/handplaner.json",
+    "side": "Server"
+  }
+]

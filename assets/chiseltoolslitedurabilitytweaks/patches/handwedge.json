@@ -1,0 +1,51 @@
+[
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handwedge-copper",
+    "value": 6000,
+    "file": "chiseltools:itemtypes/handwedge.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handwedge-tinbronze",
+    "value": 10000,
+    "file": "chiseltools:itemtypes/handwedge.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handwedge-bismuthbronze",
+    "value": 12000,
+    "file": "chiseltools:itemtypes/handwedge.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handwedge-blackbronze",
+    "value": 14000,
+    "file": "chiseltools:itemtypes/handwedge.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handwedge-iron",
+    "value": 20000,
+    "file": "chiseltools:itemtypes/handwedge.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handwedge-meteoriciron",
+    "value": 28000,
+    "file": "chiseltools:itemtypes/handwedge.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/handwedge-steel",
+    "value": 50000,
+    "file": "chiseltools:itemtypes/handwedge.json",
+    "side": "Server"
+  }
+]

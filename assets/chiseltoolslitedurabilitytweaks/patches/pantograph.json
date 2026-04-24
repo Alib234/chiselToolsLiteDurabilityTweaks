@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/pantograph-tinbronze",
+    "value": 9000,
+    "file": "chiseltools:itemtypes/pantograph.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/pantograph-bismuthbronze",
+    "value": 10000,
+    "file": "chiseltools:itemtypes/pantograph.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/pantograph-blackbronze",
+    "value": 6000,
+    "file": "chiseltools:itemtypes/pantograph.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/pantograph-iron",
+    "value": 20000,
+    "file": "chiseltools:itemtypes/pantograph.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/pantograph-meteoriciron",
+    "value": 28000,
+    "file": "chiseltools:itemtypes/pantograph.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilitybytype/pantograph-steel",
+    "value": 50000,
+    "file": "chiseltools:itemtypes/pantograph.json",
+    "side": "Server"
+  }
+]

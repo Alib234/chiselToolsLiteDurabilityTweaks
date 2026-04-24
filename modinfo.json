@@ -1,0 +1,14 @@
+{
+	"type":"content",
+	"name":"Chisel Tools Lite Durability Tweaks",
+	"version":"1.0.0",
+	"modID":"chiseltoolslitedurabilitytweaks",
+	"authors":["Alib234"],
+	"side":"Universal",
+	"requiredOnClient":true,
+	"requiredOnServer":true,
+	"dependencies":
+	{
+		"chiseltoolslite":""
+	}
+}
